@@ -12,6 +12,7 @@ public class ConcreatClass
 	  
 	  public void getname()
 	  {
+         System.out.printLn("chandra shekhar chirra");
 		  
 	  }
 
