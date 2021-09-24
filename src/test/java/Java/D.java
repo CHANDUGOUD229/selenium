@@ -15,7 +15,7 @@ public class D extends AbtrsactClass
 
 	public void mul(int a, int d) {
 		
-		System.out.println(a*d);
+		System.out.println(a*d+"chandra shekhar");
 	}
 
 }
